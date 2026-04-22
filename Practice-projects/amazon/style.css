@@ -1,0 +1,22 @@
+*{
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+div {
+    height: 60px;
+    background-color: black;
+}
+button{
+    background-color: #f0880f;
+}
+#logo{
+    color: #f0880f;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
+input{
+    width: 300px;
+}
