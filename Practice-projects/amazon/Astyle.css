@@ -5,7 +5,7 @@
 }
 .navbar {
     height: 60px;
-    background-color: #0f1111;
+    background-color: #02162A;
     color: white;
     display: flex;
     align-items: center;
@@ -70,4 +70,24 @@
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
     color: #0f1111;
+}
+.search:hover{
+    border: 2px solid orange;
+}
+.sign-up{
+    font-size: ;
+}
+.sign-up{
+    font-size: 0.75rem;
+}
+.last-box{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.cart i{
+    font-size: 38px;
+}
+.cart{
+    font-size: 0.85rem;
+    font-weight: 700;
 }
