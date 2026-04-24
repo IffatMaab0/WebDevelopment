@@ -91,3 +91,90 @@
     font-size: 0.85rem;
     font-weight: 700;
 }
+/** panel**/
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-options a{
+    display: inline;
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+}
+.panel-options{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+/** Main section **/
+.main-section{
+    background-image: url("Home.jpg");
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.main-msg{
+    background-color: #cccccc;
+    color: black;
+    height: 40px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    margin-bottom: 25px;
+}
+.main-msg a{
+    color: #007185;
+}
+/** shop section**/
+
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #D6EFD9;
+
+}
+.Box{
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+.box1-img{
+    height: 300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-size: cover;
+}
+.box1-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.box1-content p{
+    color: #007185;
+}
+/** footer**/
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    height: 50px;
+    background-color: #37475a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
