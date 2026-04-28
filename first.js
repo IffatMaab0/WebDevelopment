@@ -4,5 +4,5 @@ console.log(array)
 array.splice(1,1,"ola")
 console.log(array)
 array.push("Amazon")
-console.log(array)
+
 
