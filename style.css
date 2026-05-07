@@ -1,6 +1,9 @@
-.para{
-    color:navy;
+#btn{
+    height : 50px;
+    width : 200px;
+    display: block;
+    margin: auto;
 }
-.newClass{
-    background-color: pink;
+#btn:hover{
+    border : 2px solid black;
 }
