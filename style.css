@@ -1,9 +1,0 @@
-#btn{
-    height : 50px;
-    width : 200px;
-    display: block;
-    margin: auto;
-}
-#btn:hover{
-    border : 2px solid black;
-}
