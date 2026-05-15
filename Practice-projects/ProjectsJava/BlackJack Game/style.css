@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url("blackjack.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #FFD700;
+}
+p{
+    color: #FFFFFF;
+    font-weight: 600;
+}
