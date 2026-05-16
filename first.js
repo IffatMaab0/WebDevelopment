@@ -1,3 +1,0 @@
-let obj ={
-    title: "Livelike "
-}
