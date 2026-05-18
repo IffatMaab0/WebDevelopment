@@ -21,11 +21,15 @@ button{
     padding: 2px;
     background-color: #5f9341;
     color: white;
-    border: 2px solid transparent;
-    font-weight: 400px;
+    border: 2px solid #5f9341;
+    font-weight: bold;
 }
 button:hover{
     cursor: pointer;
+}
+#delete-all{
+    background-color: white;
+    color: #5f9341;
 }
 ul {
     padding-left: 0px;

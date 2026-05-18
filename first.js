@@ -1,8 +1,6 @@
-let btn = document.getElementById("container");
-let msg = document.getElementById('msg')
-function buy(){
-    msg.innerText = "ThankYou for purchase!"
-    console.log("clickec")
+function getFirst(arr){
+    return arr[0];
 }
-btn.innerHTML = "<button onclick='buy()'>" + "BUY!" + "</button>";
+myarr = [21, 85, 741,74]
+console.log(getFirst(myarr))
 
