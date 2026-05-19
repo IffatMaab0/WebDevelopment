@@ -1,5 +1,8 @@
 body{
     text-align: center;
+    background-image: url("background.avif");
+    color: rgb(13, 1, 24);
+    background-size: cover;
 }
 #container{
     display: flex;
