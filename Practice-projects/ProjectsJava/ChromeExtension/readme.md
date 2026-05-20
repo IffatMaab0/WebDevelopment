@@ -9,3 +9,11 @@ This project helped me practice:
 -localStorage
 -Chrome Extension APIs
 -JSON methods
+# How to Run
+1-Download or clone the project
+2-Open Chrome and go to chrome://extensions
+3-Turn on Developer Mode
+4-Click Load Unpacked
+5-Select the project folder
+
+The extension should now appear in Chrome like other extenssion.
